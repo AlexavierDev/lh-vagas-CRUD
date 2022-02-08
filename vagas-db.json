@@ -1,0 +1,67 @@
+{
+    "vagas": [
+        {
+            "id": 1,
+            "nome": "Desenvolvedor front-end",
+            "foto": "foto1.jpg",
+            "descricao": "Trabalhar com angular",
+            "salario": 5000
+        },
+        {
+            "id": 2,
+            "nome": "Desenvolvedor back-end",
+            "foto": "foto2.jpg",
+            "descricao": "Trabalhar com angular e spring",
+            "salario": 10000
+        },
+        {
+            "id": 3,
+            "nome": "Desenvolvedor FullStack",
+            "foto": "foto3.jpg",
+            "descricao": "Trabalhar com angular, spring e bootstrap",
+            "salario": 5000
+        },
+        {
+            "id": 4,
+            "nome": "Desenvolvedor de APP",
+            "foto": "foto4.jpg",
+            "descricao": "Desenvolvedor de aplicações em java",
+            "salario": 7000
+        },
+        {
+            "id": 5,
+            "nome": "Desenvolvedor WEB",
+            "foto": "foto5.jpg",
+            "descricao": "Trabalhar com angular, SpringBopot e bootstrap",
+            "salario": 80000
+        },
+        {
+            "id": 6,
+            "nome": "Desenvolvedor FullStack WEB",
+            "foto": "foto6.jpg",
+            "descricao": "Trabalhar com angular, spring e bootstrap",
+            "salario": 10000
+        },
+        {
+            "id": 7,
+            "nome": "Analista JR",
+            "foto": "foto7.jpg",
+            "descricao": "Inspecionar codificações e garantir a execução dos softwares",
+            "salario": 10000
+        },
+        {
+            "id": 8,
+            "nome": "Desenvolvedor PLENO",
+            "foto": "foto8.jpg",
+            "descricao": "Liderar a equipe em busca de novas tecnologias no mercado",
+            "salario": 10000
+        },
+        {
+            "id": 9,
+            "nome": "Desenvolvedor FullStack IOS",
+            "foto": "foto9.jpg",
+            "descricao": "Desenvolver aplicações para plataforma IOS",
+            "salario": 10000
+        }
+    ]
+}

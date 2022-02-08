@@ -1,0 +1,28 @@
+.botao{
+    background-color: green;
+    color: aliceblue;
+    border-radius: 5px;
+}
+.botao:hover{
+    background-color: rgb(9, 113, 161);
+    color: aliceblue;
+}
+.formulario{
+    margin-top: 5%;
+}
+.enviaFoto{
+    color: rgb(255, 8, 0);
+}
+.container{
+    padding: 10px;
+    text-align: center;
+    border: solid 2px;
+    border-radius: 5%;
+    border-color: rgba(0, 0, 0, 0.37);
+}
+.titulo{
+    color: rgb(14, 14, 22);
+}
+.conteudo{
+    margin-top: 20px;
+}
